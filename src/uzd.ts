@@ -23,3 +23,14 @@ function makeStringIds(arr: number[]): string[] {
 
 const ids: string[] = makeStringIds([1, 2, 3, 4]);
 console.log('ids ===', ids);
+
+// oddOrEven
+
+function oddOrEven(word: string): boolean {
+  const l: number = word.length;
+  let oddOrEven: boolean = l % 2 ? false : true;
+  console.log('oddOrEven ===', oddOrEven);
+  return oddOrEven;
+}
+oddOrEven('apples');
+oddOrEven('pears');
