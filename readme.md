@@ -26,3 +26,8 @@ prirasyti tipus kad nemestu klaidu
 6. let username = null (galimos reiksmes null arba string)
 7. let petsAndCounts = ['cat', 1, 'dog', 2, 'duck', 4,]
 8. let namesOrNulls = ['james', 'Carl', null, 'Mike', null]
+
+## uzd3
+
+1. https://edabit.com/challenge/8q54MKnRrm89pSLmW Convert Minutes into Seconds
+2. https://edabit.com/challenge/kJQYTCCWSnzhXG9dn Reverse an Array
