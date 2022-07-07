@@ -1,0 +1,12 @@
+{
+  "name": "ts-intro-basic-types",
+  "version": "1.0.0",
+  "description": "1. npm i typescript\r 2. tsc app.js\r 3. tsc --init\r 4. \"outDir\": \"./dist\",\r 5. \"rootDir\": \"./src\",\r 6. tsc --watch",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc --watch"
+  },
+  "keywords": [],
+  "author": "Marius K. <Marius@gmail.com>",
+  "license": "ISC"
+}
