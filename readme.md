@@ -33,3 +33,5 @@ prirasyti tipus kad nemestu klaidu
 2. https://edabit.com/challenge/kJQYTCCWSnzhXG9dn Reverse an Array
 3. https://edabit.com/challenge/2tcuBxn37oouMeErN Is the String Odd or Even?
 4. https://edabit.com/challenge/r4hycBjiBNMs6AAjq Find the Bomb
+5. https://edabit.com/challenge/KSTkFSnaYBJdo6PHx Boolean to String Conversion
+6. https://edabit.com/challenge/5erCDJ8eJDrXkmwTK Two Makes Ten
