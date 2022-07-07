@@ -31,3 +31,5 @@ prirasyti tipus kad nemestu klaidu
 
 1. https://edabit.com/challenge/8q54MKnRrm89pSLmW Convert Minutes into Seconds
 2. https://edabit.com/challenge/kJQYTCCWSnzhXG9dn Reverse an Array
+3. https://edabit.com/challenge/2tcuBxn37oouMeErN Is the String Odd or Even?
+4. https://edabit.com/challenge/r4hycBjiBNMs6AAjq Find the Bomb

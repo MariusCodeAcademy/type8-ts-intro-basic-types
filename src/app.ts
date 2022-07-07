@@ -7,6 +7,7 @@ favColor = undefined;
 
 // implicit type
 let username = 'James';
+// username = 5;
 // expilic type
 let lastName: string = 'Bond';
 // lastName = 5;
